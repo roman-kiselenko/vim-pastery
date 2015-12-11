@@ -1,0 +1,22 @@
+*vim-pastery* - Just a pastery vim plugin. (https://www.pastery.net/)
+
+    Usage ................ |vim-pastery-usage|
+    Mappings ............. |vim-pastery-mappings|
+
+For the latest version please see https://github.com/fishbullet/vim-pastery
+
+==============================================================================
+
+Usage
+
+- Set pastery api key.
+  
+  :PasterySetKey
+
+Mappings
+
+- Post a snippet
+  
+  :PasteryPost
+
+vim:tw=78:ts=8:ft=help:norl:
