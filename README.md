@@ -28,7 +28,7 @@ call plug#end()
 To write api key for post a snippet to own account run command in vim:
 
 ```vim
-:PasteryApiKey()
+:PasteryApiKey
 ```
 
 ## Post snippet
@@ -36,8 +36,9 @@ To write api key for post a snippet to own account run command in vim:
 You able to post the snippet without an api key, with a command below:
 
 ```vim
-:PasteryPost()
+:PasteryPost
 ```
+Check your vim `cmdline` for url of the snippet!
 
 ## Setup
 
