@@ -1,6 +1,6 @@
 ## Vim-Pastery ##
 Just a plugin for [Pastery](https://www.pastery.net/).
-Heavenly Inspired by [vim-gist](https://github.com/mattn/gist-vim).
+Inspired by [vim-gist](https://github.com/mattn/gist-vim).
 
 This is the working version.
 
