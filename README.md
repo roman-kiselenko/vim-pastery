@@ -48,6 +48,14 @@ Add to your `~/.vimrc`:
 nnoremap <leader>pas :PasteryPost<cr>
 ```
 
+## Help
+
+Check out the vim help:
+
+```vim
+:h vim-pastery
+```
+
 ## Contributing
 
 Feel free to send a pull request :stuck_out_tongue_closed_eyes:!
